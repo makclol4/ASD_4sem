@@ -1,0 +1,7 @@
+Number of components: 3
+
+Component 1: [0]
+
+Component 2: [1, 2]
+
+Component 3: []

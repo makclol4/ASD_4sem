@@ -1,0 +1,3 @@
+ Krotchaishi pyt do 0: 0
+ Krotchaishi pyt do 1: 1
+ Krotchaishi pyt do 2: 1
